@@ -4,3 +4,10 @@ int main (){
     printf("desafio WAR!\n")
     printf("novo desafio!\n")
 }
+{
+    char name [amarelo];
+    charname [azul];
+    charname [verde] 
+    char cor []
+    int tropas 
+}
