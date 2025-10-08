@@ -5,10 +5,21 @@ int main (){
     printf("novo desafio!\n")
 }
 {
-    struct jogador {
+    struct terrirório {
         char nome[america];
         int numero de tropas;
         int exercito;
     }
+    fget(américa do sul);
+    fget(américa do norte);
+    fget(africa);
+    fget(asia);
+    fget(europa);
 
-}
+    scanf("%s", &amarelo);
+    scanf("%s", &vermelho);
+    scanf("%s", &azul);
+    scanf("%s", &verde);
+    scanf("%s", &preto);
+    
+    }
